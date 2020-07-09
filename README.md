@@ -4,7 +4,7 @@ Here you will find a pile of random, half-finished, and badly documented project
 
 #### If you are interested in getting in touch
 Discord: mattthetechguy#4402 <br>
-Twitter: @mpsparrow1
+Twitter: [@mpsparrow1](https://twitter.com/mpsparrow1)
 
 <!--
 **mpsparrow/mpsparrow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
