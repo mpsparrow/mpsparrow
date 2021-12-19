@@ -1,4 +1,4 @@
-### Hello 👋 I see you found my profile 👀
+### Hello 👀
 
 Here you will find a pile of random, half-finished, and badly documented projects. My specialty is Python with some PHP, JS, and C/C++ mixed in. I mainly code website related applications and bots. I used to be heavily involved in the WordPress community but ended up taking a step back to focus on my schooling and Computer Engineering degree.
 
