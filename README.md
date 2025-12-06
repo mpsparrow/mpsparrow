@@ -1,3 +1,3 @@
-Technology student messing about. Mostly Python and WordPress related stuff.
+Application Engineering and QA @ Cerio.io
 
-[My Website](https://mattps.com/)
+Love all things computers and troubleshooting
