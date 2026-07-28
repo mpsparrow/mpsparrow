@@ -1,3 +1,1 @@
-Application Engineering and QA @ Cerio.io
-
-Love all things computers and troubleshooting
+Customer Engineering Specialist at [Cerio](https://cerio.ai/)
